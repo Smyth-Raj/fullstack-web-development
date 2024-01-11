@@ -2,13 +2,8 @@
 a full stack website with a good architecture
 
 -----------------------------------------------
-To run the frontend kindly write down the npm install on the terminal to 
-start a Nodejs Backend project
+A JAVA Based secure architecture for the development of frontend and backend 
 
 
-$ npm install 
-
-
-$ npm start
 
 
