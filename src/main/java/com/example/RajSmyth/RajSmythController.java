@@ -9,9 +9,7 @@ public class RajSmythController {
     
     @RequestMapping("/start")
     public String listen() {
-        return "Successfully implementeds................................................................\r\n" + //
-                "import org.springframework.web.bind.annotation.RequestMapping;\r\n" + //
-                "import org.springframework.web.bind.annotation.RestController;";
+        return "You have hits the /start router !";
     }
 
     @RequestMapping("/two")
